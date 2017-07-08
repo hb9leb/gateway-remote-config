@@ -1,0 +1,16 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "b827ebfffedfb8f4",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      }],
+     "ref_latitude": 47.38060,
+     "ref_longitude": 8.23818,
+     "ref_altitude": 417,
+     "contact_email": "hb9leb@gmail.com",
+     "description": "TTN1 Dotikon AG"
+  }
